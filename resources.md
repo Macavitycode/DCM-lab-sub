@@ -48,4 +48,5 @@ Schematic Diagram:
 - Schematic Diagram, [Effect of Plug-in Vehicles](https://www.researchgate.net/figure/Schematic-diagram-of-a-plug-in-electric-vehicle_fig2_283195430)
 - [Three Phase Inverter, electronic-tutorial](https://www.electronics-tutorial.net/dc-to-ac-inverter/three-phase-inverter/)
 - [DC to AC Inverter, electronic-tutorial](https://www.electronics-tutorial.net/dc-to-ac-inverter/)
-- 
+- [3 Phase Power Inverter, powerinverter](http://www.powerinverter.org/3-phase-pwm-power-inverter-circuit.html)
+- [Different PWM Waveforms Generation for 3 Phase Induction Motor with XC164CS, infineon](https://www.infineon.com/dgdl/AP1609710_different_PWM_for_three_phase_ACIM.pdf?fileId=db3a304412b407950112b40a1bf20453)
