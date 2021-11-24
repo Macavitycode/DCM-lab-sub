@@ -46,3 +46,6 @@ Schematic Diagram:
 - [Intro to Electric Vehicle Battery Systems, allaboutcircuits](https://www.allaboutcircuits.com/technical-articles/introduction-to-electric-vehicle-battery-systems/)
 - [How Electric Vehicles Work, SEAI](https://www.seai.ie/technologies/electric-vehicles/what-is-an-electric-vehicle/how-electric-vehicles-work/#:~:text=use%20AC%20power.-,Inverter,frequency%20of%20the%20alternating%20current.)
 - Schematic Diagram, [Effect of Plug-in Vehicles](https://www.researchgate.net/figure/Schematic-diagram-of-a-plug-in-electric-vehicle_fig2_283195430)
+- [Three Phase Inverter, electronic-tutorial](https://www.electronics-tutorial.net/dc-to-ac-inverter/three-phase-inverter/)
+- [DC to AC Inverter, electronic-tutorial](https://www.electronics-tutorial.net/dc-to-ac-inverter/)
+- 
