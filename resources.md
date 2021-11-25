@@ -51,3 +51,5 @@ Schematic Diagram:
 - [3 Phase Power Inverter, powerinverter](http://www.powerinverter.org/3-phase-pwm-power-inverter-circuit.html)
 - [Different PWM Waveforms Generation for 3 Phase Induction Motor with XC164CS, infineon](https://www.infineon.com/dgdl/AP1609710_different_PWM_for_three_phase_ACIM.pdf?fileId=db3a304412b407950112b40a1bf20453)
 - [Working of a Three Phase Inverter](https://circuitdigest.com/tutorial/three-phase-inverter-circuit-diagram-120-degree-and-180-degree-conduction-mode)
+- [PWM Schemes in 3 Phase Sources, tntech](https://www.tntech.edu/engineering/pdf/cesr/ojo/parag/CHAPTER4.pdf)
+- [Design Three Phase Inverter in Simulink, microcontrollerslab](https://microcontrollerslab.com/design-three-phase-inverter-using-simulink-matlab/)
