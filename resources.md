@@ -53,3 +53,4 @@ Schematic Diagram:
 - [Working of a Three Phase Inverter](https://circuitdigest.com/tutorial/three-phase-inverter-circuit-diagram-120-degree-and-180-degree-conduction-mode)
 - [PWM Schemes in 3 Phase Sources, tntech](https://www.tntech.edu/engineering/pdf/cesr/ojo/parag/CHAPTER4.pdf)
 - [Design Three Phase Inverter in Simulink, microcontrollerslab](https://microcontrollerslab.com/design-three-phase-inverter-using-simulink-matlab/)
+- [SPWM Generation with VVVF](https://www.researchgate.net/publication/289922429_Simulation_Analysis_of_SPWM_Variable_Frequency_Speed_Based_on_Simulink)
